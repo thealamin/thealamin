@@ -13,7 +13,7 @@
 
 I design and build websites that bring in customers, then protect them, and the people behind them, from cyber threats.
 
-I'm a website designer, developer and cyber security specialist from Dhaka, Bangladesh, working with businesses, nonprofits and individuals worldwide since 2020. Before that I was a Technical Support Engineer at Hostinger, helping website owners through migrations, performance problems and malware cleanups.
+I'm a website designer, developer and cyber security specialist from Dhaka, Bangladesh, working with businesses, nonprofits and individuals worldwide since 2020. I also worked as a Technical Support Engineer at Hostinger, helping website owners through migrations, performance problems and malware cleanups.
 
 **600+ projects delivered · 4.9★ average rating · 6+ years of experience**
 
@@ -73,6 +73,7 @@ More case studies in my [portfolio →](https://thealamin.com/portfolio.html)
 
 - [**woodcalculator**](https://github.com/thealamin/woodcalculator): an offline Bengali calculator for round-log wood volume and price, built as an installable web app for a non-technical user. [Try it live →](https://thealamin.com/calculator/)
 - [**Disease-prediction-system**](https://github.com/thealamin/Disease-prediction-system): a symptom checker with a machine-learning model, a FastAPI backend and a Bengali interface that also suggests which doctor to see.
+- [**movie-explorer**](https://github.com/thealamin/movie-explorer): a responsive React and Tailwind app for browsing and searching TV shows, with live search and detail pop-ups. [Try it live →](https://thealamin.github.io/movie-explorer/)
 
 ### How I work
 
